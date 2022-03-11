@@ -16,8 +16,8 @@ This app is fortune-telling and shows how developers can use the Stateful Widget
 <h2> Used Language <img src = "https://media.giphy.com/media/Zd6jPg8hcp4Q3vrvjo/giphy.gif" width = 42px> </h2>
 <div class="row">
       <div class="column">
-<img width ='72px' src 
-     ='https://raw.githubusercontent.com/MuharremKoroglu/Quiz_Show/main/Flag_of_Turkey.svg'>
+<img width ='82px' src 
+     ='https://raw.githubusercontent.com/MuharremKoroglu/Bitcoin/main/Flag_of_the_United_Kingdom.svg'>
   </div>
 </div>
 
